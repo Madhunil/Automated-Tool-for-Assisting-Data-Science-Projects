@@ -1,1 +1,1 @@
-# Automated_Tool_for_Assisting_Data_Science_Projects
+# Automated-Tool-for-Assisting-Data-Science-Projects
